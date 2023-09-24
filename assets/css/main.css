@@ -1,3 +1,14 @@
+@font-face {
+  font-family: 'FarAwayGalaxy';
+  src: url('/fonts/Programma.woff') format('woff');
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'FarAwayGalaxy';
+  src: url('/fonts/Programma.woff') format('woff2');
+  font-weight: normal;
+}
+
 * { 
   box-sizing: border-box;
   margin: 0;
@@ -11,4 +22,5 @@ html {
 
 body {
   overflow-x: hidden;
+  font-family: 'FarAwayGalaxy', 'Gill Sans', sans-serif;
 }
