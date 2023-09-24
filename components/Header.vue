@@ -1,5 +1,5 @@
 <template>
-  <div class="text-black">
+  <div class="text-white  ">
     im header
   </div>
 </template>
